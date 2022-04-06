@@ -55,3 +55,29 @@ contact: 24534612345
 2. View the classes and their attendance in that
 3. View the marks given to them
 4. View the notices
+
+## Research Topics
+Project generated with default express project generator using
+https://expressjs.com/en/starter/generator.html
+
+template engine used: hbs
+https://github.com/pillarjs/hbs
+
+stylesheet used:
+https://github.com/jgthms/bulma
+
+mongodb driver used:
+https://github.com/mongodb/node-mongodb-native
+
+other related dependacies for this project:
+
+cookie-parser (for authentication management):
+https://github.com/expressjs/cookie-parser
+
+morgan (for logging):
+https://github.com/expressjs/morgan
+
+http-errors (for error handling):
+https://github.com/jshttp/http-errors
+
+This research was down to understand the optimal way to create project structure
